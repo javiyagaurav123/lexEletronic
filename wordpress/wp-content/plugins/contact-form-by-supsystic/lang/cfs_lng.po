@@ -1,0 +1,3576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form by Supsystic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-11-23 14:08+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: supsystic.com <supsystic.team@gmail.com>\n"
+"Language-Team: supsystic.com <supsystic.team@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/controller.php:207
+#: ../classes/controller.php:215
+msgid "Done"
+msgstr ""
+
+#: ../classes/field.php:131
+msgid "Select"
+msgstr ""
+
+#: ../classes/field.php:170
+#: ../classes/field.php:179
+#: ../classes/field.php:184
+msgid "N/A"
+msgstr ""
+
+#: ../classes/field.php:277
+msgid "Add Checkbox"
+msgstr ""
+
+#: ../classes/field.php:282
+#: ../classes/field.php:287
+msgid "Add Item"
+msgstr ""
+
+#: ../classes/field.php:293
+msgid "Add Radio Button"
+msgstr ""
+
+#: ../classes/field.php:311
+msgid "Dimensions"
+msgstr ""
+
+#: ../classes/field.php:314
+msgid "width"
+msgstr ""
+
+#: ../classes/field.php:316
+msgid "height"
+msgstr ""
+
+#: ../classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr ""
+
+#: ../classes/field.php:324
+msgid "Attributes"
+msgstr ""
+
+#: ../classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:95
+msgid "Address"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:97
+msgid "Country"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:132
+msgid "Not selected"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:183
+msgid "class"
+msgstr ""
+
+#: ../classes/fieldAdapter.php:185
+msgid "id"
+msgstr ""
+
+#: ../classes/fileuploader.php:29
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: ../classes/fileuploader.php:32
+msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form"
+msgstr ""
+
+#: ../classes/fileuploader.php:35
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: ../classes/fileuploader.php:38
+msgid "No file was uploaded."
+msgstr ""
+
+#: ../classes/fileuploader.php:41
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: ../classes/fileuploader.php:44
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: ../classes/fileuploader.php:47
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: ../classes/fileuploader.php:51
+msgid "No error code avaiable"
+msgstr ""
+
+#: ../classes/fileuploader.php:54
+msgid "No file was uploaded.."
+msgstr ""
+
+#: ../classes/frame.php:139
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: ../classes/html.php:302
+msgid "Upload"
+msgstr ""
+
+#: ../classes/html.php:715
+msgid "ON"
+msgstr ""
+
+#: ../classes/html.php:716
+msgid "OFF"
+msgstr ""
+
+#: ../classes/html.php:740
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: ../classes/model.php:176
+#: ../classes/model.php:188
+msgid "Database error detected"
+msgstr ""
+
+#: ../classes/model.php:178
+msgid "Invalid ID"
+msgstr ""
+
+#: ../classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: ../classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr ""
+
+#: ../classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr ""
+
+#: ../classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+
+#: ../classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: ../classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr ""
+
+#: ../classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr ""
+
+#: ../classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr ""
+
+#: ../classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr ""
+
+#: ../classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr ""
+
+#: ../classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr ""
+
+#: ../classes/table.php:277
+msgid "Nothing to update"
+msgstr ""
+
+#: ../classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: ../classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr ""
+
+#: ../classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr ""
+
+#: ../classes/validator.php:71
+#, php-format
+msgid "Please enter %s"
+msgstr ""
+
+#: ../classes/validator.php:78
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: ../classes/validator.php:85
+#: ../classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: ../classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr ""
+
+#: ../classes/tables/modules.php:7
+#: ../classes/tables/modules_type.php:8
+msgid "Label"
+msgstr ""
+
+#: ../classes/tables/modules.php:8
+msgid "Type"
+msgstr ""
+
+#: ../classes/tables/modules.php:9
+msgid "Active"
+msgstr ""
+
+#: ../classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+#: ../classes/tables/modules.php:13
+msgid "Code"
+msgstr ""
+
+#: ../classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr ""
+
+#: ../classes/tables/modules_type.php:7
+msgid "ID"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:8
+msgid "code"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr ""
+
+#: ../classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wpUpdater.php:68
+msgid "An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wpUpdater.php:73
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/mod.php:15
+msgid "Testing"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/models/ab_testing.php:18
+msgid "Enter Name"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/models/ab_testing.php:20
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/models/ab_testing.php:32
+msgid "Empty Base ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abEditFormControls.php:3
+msgid "Back to Main Form"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abFormEditTab.php:3
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:2
+msgid "Add New Test"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abFormEditTab.php:7
+msgid "Delete selected"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abFormEditTab.php:11
+msgid "Clear"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abFormEditTab.php:17
+msgid "You have no Test Forms for now. <a href=\"#\" class=\"cfsAbAddNew\" style=\"font-style: italic;\">Create</a> your first Test!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/ab_testing/views/tpl/abNewForm.php:5
+msgid "Test Form Name"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/mod.php:11
+msgid "Active Campaign"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:22
+msgid "Please make sure that you created some Lists under your Active Campaign account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:26
+msgid "Make sure that you entered correct API data."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:40
+msgid "Please enter your API URL"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:42
+msgid "Please enter your API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:83
+#, php-format
+msgid "Add contact failed with error: %s"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/models/activecampaign.php:95
+msgid "No lists to add selected in admin area - contact site owner to resolve this issue."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:4
+msgid "Not supported by Server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:5
+msgid "Not supported on your server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:8
+msgid "This module require to have cUrl library for PHP on server installed. Please contact your hosting provider and ask them to enable cUrl for you, this is Free library."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:14
+msgid "API URL"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:15
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:27
+#, php-format
+msgid "You can find it under your Active Campaign Account -> My Settings -> API, here is <a href=\"%s\" class=\"cfsAcHelpApiKeyLink\">help screenshot</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:26
+msgid "API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:38
+msgid "Campaigns for subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:39
+msgid "Select Campaigns for subscribe. They are taken from your Active Campaign account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/activecampaign/views/tpl/acAdminFields.php:46
+msgid "Choose Lists"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/controller.php:12
+#, php-format
+msgid "File %s Uploaded"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/mod.php:121
+msgid "Yes"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/mod.php:121
+msgid "No"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:29
+#, php-format
+msgid "File size is too big, maximum file size for %s is %sMb"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:40
+#, php-format
+msgid "File type is invalid, %s is supported only %s types"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:59
+msgid "Can not find file in request"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:61
+msgid "Empty fiels provided"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:64
+msgid "Missing Form"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/add_fields/models/add_fields.php:66
+msgid "Missing ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/mod.php:8
+msgid "arpReach"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:4
+msgid "arpReach not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:5
+msgid "This module is not supported by your server configuration."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:8
+msgid "arpReach is not supported on your server."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:14
+msgid "arpReach intake form Action URL"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/arpreach/views/tpl/arAdminFields.php:15
+msgid "Open your script for intake form, find there form tag with form method='post' action='http://yourdomain.coma/a/a.php/sub/a/xxxxxx', then copy \"action\" attribute - and paste it in text field below."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/mod.php:9
+msgid "Aweber"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/models/aweber.php:88
+msgid "Can not find your Aweber lists"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:14
+msgid "Authorize in Aweber Account"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:15
+msgid "To start integration process - you need to be authorized in Aweber account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:18
+msgid "Authorize"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:24
+msgid "Lists for subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:25
+msgid "Select lists for subscribe. They are taken from your Aweber account - so make sure that you entered correct API key before."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/aweber/views/tpl/awbAdminFields.php:34
+msgid "Enter API key - and your list will appear here"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/mod.php:12
+msgid "Benchmark"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:41
+msgid "Please make sure that you created some Lists under your Benchmark account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:45
+msgid "Please enter your Benchmark Password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/models/benchmarkemail.php:47
+msgid "Please enter your Benchmark Login"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:15
+msgid "Benchmark Login"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:16
+msgid "Login for your Benchmark account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:27
+msgid "Benchmark Password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:28
+msgid "Password for your Benchmark account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/benchmarkemail/views/tpl/beAdminFields.php:40
+msgid "Select Campaigns for subscribe. They are taken from your Benchmark account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/mod.php:8
+msgid "Campaign Monitor"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:16
+#, php-format
+msgid "You have no lists for now. Go to your <a href=\"%s\" target=\"_blank\">Campaign Monitor Account -> Lists & Subscribers</a> and create list at first, then just reload this page"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:186
+msgid "Something going wrong while trying to send data to mail list service. Please contact site owner."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/models/campaignmonitor.php:196
+msgid "Can not detect authorization fo account owner. Contact site owner to resolve this issue."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:4
+msgid "Campaign Monitor not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:8
+msgid "Campaign Monitor require at least PHP version 5.3. Please contact your hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:14
+msgid "Campaign Monitor Setup"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:15
+msgid "You must authorize to use Campaign Monitor features"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:18
+msgid "Authorize in Campaign Monitor"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/campaignmonitor/views/tpl/cmAdminFields.php:25
+msgid "Select lists for subscribe. They are taken from your Campaign Monitor account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/mod.php:10
+msgid "Conditional Logic"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:7
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:31
+msgid "Field"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:8
+msgid "User"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:11
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:27
+msgid "Equal"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:12
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:28
+msgid "Like"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:13
+msgid "More"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:14
+msgid "Less"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:17
+msgid "Or"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:18
+msgid "And"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:21
+msgid "From"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:22
+msgid "Language"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:23
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:153
+msgid "URL"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:32
+msgid "Redirect"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:35
+msgid "Show"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:36
+msgid "Hide"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:37
+msgid "Set Value"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:38
+msgid "Add Value"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:39
+msgid "Substruct Value"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:40
+msgid "Add Currency"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/conditional_logic.php:41
+msgid "Substruct Currency"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:6
+msgid "Add New Conditional Logic"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:12
+msgid "Show / Hide Settings"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:28
+msgid "Your conditions"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:29
+msgid "Conditions"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:32
+msgid "Add Condition"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:40
+msgid "Your actions"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:41
+msgid "Actions"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:44
+msgid "Add Action"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:88
+msgid "Select Country"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:97
+msgid "Select Language"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:112
+msgid "Remove Condition"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:134
+msgid "Select Field"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:151
+msgid "to"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:156
+msgid "Redirect after form will be submitted"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:157
+msgid "After submit"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/conditional_logic/views/tpl/clAdminTab.php:164
+msgid "Remove Action"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/mod.php:11
+msgid "Constant Contact"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/models/constantcontact.php:39
+msgid "You are not logged-in"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/models/constantcontact.php:41
+msgid "Can not get cc obj"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:4
+msgid "Constant Contact not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:8
+msgid "Constant Contact require at least PHP version 5.3. Please contact your hosting provider and ask them to switch your PHP to version 5.3. or higher."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:14
+msgid "Constant Contact Setup"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:15
+msgid "You must authorize to use Constant Contact features"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:18
+msgid "Authorize in Constant Contact"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/constantcontact/views/tpl/ccAdminFields.php:25
+msgid "Select lists for subscribe. They are taken from your Constant Contact account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/mod.php:11
+msgid "ConvertKit"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/models/convertkit.php:7
+msgid "Please enter your API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/models/convertkit.php:19
+msgid "You have no forms. Please create form at first under your ConvertKit account"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/models/convertkit.php:36
+msgid "There was a problem with sending request to our authentication server. Please try later."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/models/convertkit.php:71
+msgid "Some error occured during subscription. Please make sure that you entered all information correct."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/models/convertkit.php:78
+msgid "Please make sure that you entered your API Key and selected forms in admin area"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/views/tpl/ckAdminFields.php:15
+msgid "You can find your API Key in the ConvertKit Account page."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/views/tpl/ckAdminFields.php:25
+msgid "Forms to Subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/views/tpl/ckAdminFields.php:26
+msgid "Select Forms for subscribe. They are taken from your ConvertKit account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/convertkit/views/tpl/ckAdminFields.php:32
+msgid "Choose Forms"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/mod.php:8
+msgid "FeedBlitz"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/models/feedblitz.php:11
+msgid "You have no lists. Login to your FeedBlitz account and create your first list before start using this functionality."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/models/feedblitz.php:61
+msgid "Some error occured during connection to the server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:4
+msgid "FeedBlitz not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:8
+msgid "FeedBlitz is not supported on your server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:14
+msgid "FeedBlitz API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:15
+msgid "Your FeedBlitz API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/feedblitz/views/tpl/feedbAdminFields.php:26
+msgid "Select lists for subscribe. They are taken from your FeedBlitz account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/get_response/mod.php:11
+msgid "GetResponse"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:15
+#, php-format
+msgid "You can find it under your GetResponse Account -> GetResponse API, here is <a href=\"%s\" class=\"cfsGrHelpApiKeyLink\" target=\"_blank\">help screenshot</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:26
+msgid "Select Campaigns for subscribe. They are taken from your GetResponse account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:41
+msgid "Cycle Day"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/get_response/views/tpl/grAdminFields.php:42
+msgid "Insert contact on a given day at the autoresponder cycle. Value of 0 means the beginning of the cycle. Lack of this param means that a contact will not be inserted into cycle."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/mod.php:11
+msgid "iContact"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/models/icontact.php:20
+msgid "Please enter your Application ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/models/icontact.php:23
+msgid "Please enter your API Username"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/models/icontact.php:26
+msgid "Please enter your API Password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/models/icontact.php:43
+msgid "You have no lists in your iContact account for now."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/models/icontact.php:108
+msgid "Can't add contact"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:14
+msgid "Application ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:15
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:26
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:37
+#, php-format
+msgid "You can create it <a href=\"%s\" target=\"_blank\">here</a>. More info can be found <a href=\"%s\" target=\"_blank\">here</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:25
+msgid "API Username"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:36
+msgid "API Password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/icontact/views/tpl/icAdminFields.php:48
+msgid "Select Lists for subscribe. They are taken from your iContact account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/mod.php:13
+msgid "InfusionSoft"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/models/infusionsoft.php:88
+msgid "Administrator of this site need to re-autentificate in InfusionSoft system from admin area"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:8
+msgid "This module require to have cUrl library for PHP on server installed and PHP version to be at least 5.4. Please contact your hosting provider and ask them to enable cUrl for you, this is Free library, and check your PHP version."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:14
+msgid "InfusionSoft Setup"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:15
+msgid "You must authorize to use InfusionSoft features"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:18
+msgid "Authorize in InfusionSoft"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:36
+msgid "Tags for subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/infusionsoft/views/tpl/isAdminFields.php:37
+msgid "Enter Tags IDs for subscribe. You can get it from your InfusionSoft account -> Settings -> Tags (Id column). You can enter several tags ids here, separate them by comma sign - \",\"."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/mod.php:8
+msgid "Jetpack"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:46
+msgid "Not a valid email address"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:47
+msgid "Not a valid post ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:48
+msgid "Unknown post"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:49
+msgid "Strange error.  Jetpack servers at WordPress.com could subscribe the email."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:50
+msgid "Site owner has disabled subscriptions."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:51
+msgid "Already subscribed."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:52
+msgid "Strange error.  Jetpack servers at WordPress.com returned something malformed."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:53
+msgid "Strange error.  Jetpack servers at WordPress.com returned something I didn't understand."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:56
+msgid "Something is going wrong"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:62
+msgid "Empty response from Jetpack"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:64
+msgid "Subscriptions module is not activated in Jetpack plugin settings. Activate it before start using this subscribe method."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/models/jetpack.php:66
+msgid "Can't find Jetpack plugin on this server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/jetpack/views/tpl/jpkAdminFields.php:8
+#, php-format
+msgid "To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s\">Jetpack plugin</a> installed on your site"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/mod.php:30
+#, php-format
+msgid "Your license has expired. Once you extend your license - you will be able to Update PRO version. To extend PRO version license - follow <a href=\"%s\" target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/mod.php:38
+#, php-format
+msgid "Your license for PRO version of %s plugin has expired. You can <a href=\"%s\" target=\"_blank\">click here</a> to extend your license, then - go to <a href=\"%s\">License</a> tab and click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/mod.php:51
+msgid "License"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/mod.php:74
+msgid "Activate License"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/mod.php:76
+msgid "Renew License"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/models/license.php:154
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/models/license.php:156
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/models/license.php:158
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid "Congratulations! PRO version of %s plugin has been activated and is working fine!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid "Your license for PRO version of %s plugin has expired. You can <a href=\"%s\" target=\"_blank\">click here</a> to extend your license, then - click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid "Congratulations! You have successfully installed PRO version of %s plugin. Final step to finish Your PRO version setup - is to enter your Email and License Key on this page. This will activate Your copy of software on this site."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid "Your email address, used on checkout procedure on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid "Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/mod.php:8
+msgid "MailChimp"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:96
+msgid "Something going wrong while trying to send data to MailChimp. Please contact site owner."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:115
+msgid "No API key entered in admin area - contact site owner to resolve this issue."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:178
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:210
+msgid "There was some problem while trying to get your lists. Make sure that your API key is correct."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:182
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:218
+msgid "Empty API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/models/mailchimp.php:216
+msgid "Select some Lists before"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:14
+msgid "MailChimp API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:15
+#, php-format
+msgid "To find your MailChimp API Key login to your mailchimp account at <a href=\"%s\" target=\"_blank\">%s</a> then from the left main menu, click on your Username, then select \"Account\" in the flyout menu. From the account page select \"Extras\", \"API Keys\". Your API Key will be listed in the table labeled \"Your API Keys\". Copy / Paste your API key into \"MailChimp API key\" field here. For more detailed instruction - check article <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:26
+msgid "Select lists for subscribe. They are taken from your MailChimp account - so make sure that you entered correct API key before."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:41
+msgid "Disable double opt-in"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:42
+msgid "Disable double opt-in confirmation message sending - will create subscriber directly after he will sign-up to your form."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:51
+msgid "Send MailChimp Welcome Email"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:52
+msgid "If double opt-in is disable - there will be no Welcome email from MailChimp by default. But if you still need it - just enable this opton, and Welcome email from MailChimp will be sent to your user even in this case."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:58
+msgid "Group for subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:59
+msgid "In MailChimp there are possibility to select groups for your subscribers. This is not mandatory, but some times is really helpful. So, we added this possibility for you in our plugin too - hope you will like it!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:65
+msgid "Choose Groups"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailchimp/views/tpl/mcpAdminFields.php:68
+msgid "Enter API key, select List - and your groups will appear here"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/mod.php:8
+msgid "MailPoet"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/models/mailpoet.php:47
+msgid "Some error occured during subscription process"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/models/mailpoet.php:50
+msgid "Can't find MailPoet on this server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/views/tpl/mptAdminFields.php:8
+#, php-format
+msgid "To use this subscribe engine - you must have <a target=\"_blank\" href=\"%s\">MailPoet plugin</a> installed on your site"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/views/tpl/mptAdminFields.php:14
+msgid "MailPoet Subscribe Lists"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailpoet/views/tpl/mptAdminFields.php:22
+#, php-format
+msgid "You have no subscribe lists, <a target=\"_blank\" href=\"%s\">create lists</a> at first, then - select them here."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/mod.php:9
+msgid "Mailrelay"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/models/mailrelay.php:15
+msgid "You have no lists. Login to your Mailrelay account and create your first list before start using this functionality."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/models/mailrelay.php:166
+msgid "Failed to create subscriber."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/models/mailrelay.php:172
+#: ../doc/contact-form-by-supsystic-pro/myemma/models/myemma.php:79
+msgid "Can not detect Host and API key. Contact site owner to resolve this issue."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:4
+msgid "Mailrelay not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:8
+msgid "Mailrelay is not supported on your server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:14
+msgid "Mailrelay Host"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:15
+msgid "Please enter the host that you have in your Mairelay welcome email. Please enter it without the initial http:// (for example demo.ip-zone.com)"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:34
+msgid "Mailrelay API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:35
+msgid "Please enter your API key. You can generate your API key on your Mailrelay panel, Configuration -> API access -> Generate API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/mailrelay/views/tpl/mrAdminFields.php:47
+msgid "To create new groups in Mailrelay, you must login into the control panel and click into the Mail Relay > Subscribers groups. Once there you can add a new group for your Wordpress users, or edit an existing one"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/mod.php:8
+msgid "Emma"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/models/myemma.php:18
+msgid "Please enter your Account ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/models/myemma.php:21
+msgid "Please enter your Public API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/models/myemma.php:24
+msgid "Please enter your Private API Key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:4
+msgid "Emma not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:8
+msgid "Emma is not supported on your server, please nstall cUrl PHP Library on your server first - it's free."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:14
+msgid "Emma Account ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:15
+msgid "Your account ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:25
+msgid "Emma Public API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:26
+msgid "Your Public API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:36
+msgid "Emma Private API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:37
+msgid "Your Private API key"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:47
+msgid "Groups for subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/myemma/views/tpl/memAdminFields.php:48
+msgid "To create new groups in Emma, you must login into the control panel and click into the Emma > Subscribers groups. Once there you can add a new group for your Wordpress users, or edit an existing one"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/salesforce/mod.php:11
+msgid "SalesForce - Web-to-Lead"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:14
+msgid "Form ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/salesforce/views/tpl/sfAdminFields.php:15
+#, php-format
+msgid "Generate your lead form in your Salesforce account (more about generating form you can read <a target=\"_blank\" href=\"%s\">here</a>), then copy \"oid\" value from it (<a target=\"_blank\" href=\"%s\">like this</a>) and insert it into this paramter"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/mod.php:9
+msgid "SendGrid"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/models/new_model.php:19
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/models/sendgrid.php:15
+msgid "You have no lists. Login to your SendGrid account and create your first list before start using this functionality."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:4
+msgid "SendGrid not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:8
+msgid "SendGrid is not supported on your server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:14
+msgid "SendGrid Username"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:15
+msgid "Your SendGrid name"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:25
+msgid "SendGrid Password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:26
+msgid "Your SendGrid password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sendgrid/views/tpl/sgAdminFields.php:37
+msgid "Select lists for subscribe. They are taken from your SendGrid account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/mod.php:8
+msgid "SG Autorepondeur"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:61
+msgid "Required fields are missing"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:62
+msgid "The email is already in the list"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:63
+msgid "Registration was refused-blacklisted"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:64
+msgid "The country has been blocked"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:65
+msgid "Too many entries with the same IP address"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:66
+msgid "Ok Register following a behavioral segmentation"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:69
+msgid "The email is not the right format"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/models/sgautorepondeur.php:70
+msgid "Error on one of the variables - User ID or List ID or Activation Code"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:4
+msgid "SG Autorepondeur not supported"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:8
+msgid "SG Autorepondeur is not supported on your server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:14
+msgid "SG Autorepondeur User ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:15
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:26
+msgid "This info available on your home page in SG Autorepondeur"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:25
+msgid "SG Autorepondeur List ID"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:36
+msgid "SG Client Activation Code"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/sgautorepondeur/views/tpl/sgaAdminFields.php:37
+msgid "This info available on the member's area in the top menu \"my account\" (at the bottom of the page)"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/mod.php:10
+msgid "Subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:47
+msgid "Something goes wrong"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:99
+msgid "New User notification"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:99
+msgid "New Subscriber notification"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:102
+#, php-format
+msgid "New Subscriber on %s"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:109
+msgid "You have new user registration on your site <a href=\"[siteurl]\">[sitename]</a>, here us user information:<br />[subscriber_data]"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:110
+msgid "You have new subscriber on your site <a href=\"[siteurl]\">[sitename]</a>, here is subscriber information:<br />[subscriber_data]"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:171
+msgid "Can't detect your IP, please don't spam"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:203
+msgid "You just subscribed from this IP"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/models/subscribe.php:218
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:93
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:104
+msgid "Empty or invalid email"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:7
+msgid "Enable Subscription"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:14
+msgid "Subscribe to"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:15
+msgid "Destination for your Subscribers."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:30
+msgid "Activate License or update PRO version plugin"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:31
+msgid "Apparently - you have installed PRO version, but did not activate it license - then please activate it. Or you have old version of plugin - then you need go to Plugins page and Update PRO version plugin, after this go to License tab and re-activate license (just click one more time on \"Activate\" button)."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:54
+msgid "Create WP user"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:55
+msgid "Once user will subscribe to selected Subscription service - it will create WordPress Subscriber too. PLease be carefull using this option: WordPressusers will be created right after you submit your Subscribe form without confirmation."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:66
+msgid "\"Confirmation sent\" message"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:67
+msgid "This is the message that the user will see after subscription, when letter with confirmation link was sent."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:71
+msgid "Confirmation link was sent to your email address. Check your email!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:77
+msgid "Subscribe success message"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:78
+msgid "Right after subscriber will be created and confirmed - this message will be shown."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:82
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:64
+msgid "Thank you for subscribing!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:88
+msgid "Email error message"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:89
+msgid "If email that was entered by user is invalid, user will see this message"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:99
+msgid "Email exists error message"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:100
+msgid "If email that was entered by user already exists - user will see this message. But be careful: this can be used by hackers - to detect existing email in your database, so it's better for you to leave this message same as error message about invalid email above."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:110
+msgid "Redirect after subscription URL"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:111
+msgid "You can enable redirection after subscription, just enter here URL that you want to redirect to after subscribe - and user will be redirected there. If you don't need this feature - just leave this field empty."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:121
+msgid "Open in a new window (tab)"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:127
+msgid "Confirmation email subject"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:128
+msgid "Email with confirmation link subject"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:134
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/models/wp_subscribe.php:182
+msgid "Confirm subscription on [sitename]"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:140
+msgid "Confirmation email From field"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:141
+msgid "Email with confirmation link From field"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:153
+msgid "Confirmation email text"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:154
+msgid "Email with confirmation link content"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:161
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:210
+#, php-format
+msgid "You can use next variables here: %s, and any other subscribe field value - just place here [user_FIELD_NAME], where FIELD_NAME - is name attribute of required field."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:167
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/models/wp_subscribe.php:185
+msgid "You subscribed on site <a href=\"[siteurl]\">[sitename]</a>. Follow <a href=\"[confirm_link]\">this link</a> to complete your subscription. If you did not subscribe here - just ignore this message."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:170
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:219
+msgid "Add Attach"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:176
+msgid "New Subscriber email subject"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:177
+msgid "Email to New Subscriber subject"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:183
+msgid "[sitename] Your username and password"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:189
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:190
+msgid "New Subscriber email From field"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:202
+msgid "New Subscriber email text"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:203
+msgid "Email to New Subscriber content"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:216
+msgid "Username: [user_login]<br />Password: [password]<br />[login_url]"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:225
+msgid "Redirect if email already exists"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:226
+msgid "Link to redirect to if user subscribes - but this email already exists"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:240
+msgid "Select File"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/subscribe/views/tpl/subFormEditTab.php:245
+msgid "Remove"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/mod.php:16
+msgid "Vertical Response"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/models/verticalresponse.php:104
+msgid "Can not access to Vertical Responce server"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/models/verticalresponse.php:106
+msgid "Empty code returned"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:4
+msgid "Vertical Response Setup"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:5
+msgid "You must authorize to use Vertical Response features"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:8
+msgid "Authorize in Vertical Response"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/verticalresponse/views/tpl/vrAdminFields.php:15
+msgid "Select lists for subscribe. They are taken from your Vertical Response account."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:12
+#, php-format
+msgid "Registered from %s"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:13
+#, php-format
+msgid "Subscribed to %s"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:16
+msgid "Username"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:28
+msgid "Activated"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:30
+msgid "Date Created"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:65
+msgid "There are no members for now"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/controller.php:66
+msgid "There are no subscribers for now"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/mod.php:8
+msgid "WordPress"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/models/wp_subscribe.php:90
+msgid "Can't registrate for now. Please try again later."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/models/wp_subscribe.php:90
+msgid "Can't subscribe for now. Please try again later."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/models/wp_subscribe.php:237
+msgid "Send me some info, pls"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:10
+msgid "Registration Confirmation"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:11
+msgid "Subscribe Confirmation"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:53
+msgid "Some errors occured while trying to registrate"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:54
+msgid "Some errors occured while trying to subscribe"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:63
+msgid "Thank you for registration!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:75
+msgid "Registration confirmed"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:76
+msgid "Subscription confirmed"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/subSuccessPage.php:81
+#, php-format
+msgid "<a href=\"%s\">Back to site</a> in <i id=\"cfsConfirmBackCounter\">%d</i> seconds"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:14
+msgid "Create user with the chosen role after subscribing"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:15
+msgid "Use this only if you really need it. Remember! After you change this option - your new subscriber will have more privileges than usual subscribers, so be careful with this option!"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:25
+msgid "Create Subscriber without confirmation"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:26
+msgid "Usually, after user subscribes, we send an email with the confirmation link - to confirm the email address, and only after user clicks on the link from this email - we will create a new subscriber. This option allows you to create a subscriber - right after subscription, without the email confirmation process."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:35
+msgid "Export Subscribers"
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:36
+msgid "Export all subscribers, who subscribed using WordPress \"Subscribe to\" method, as CSV file."
+msgstr ""
+
+#: ../doc/contact-form-by-supsystic-pro/wp_subscribe/views/tpl/wpsubAdminFields.php:39
+msgid "Get CSV List"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:13
+#, php-format
+msgid "Cool WordPress plugins from supsystic.com developers. I tried %s - and this was what I need! #supsystic.com"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:14
+msgid "Settings"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr ""
+
+#: ../modules/adminmenu/mod.php:16
+#: ../modules/adminmenu/mod.php:17
+#: ../modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr ""
+
+#: ../modules/forms/controller.php:270
+msgid "Done, redirecting to new Form..."
+msgstr ""
+
+#: ../modules/forms/controller.php:328
+msgid "Thank you for contacting us!"
+msgstr ""
+
+#: ../modules/forms/controller.php:356
+#, php-format
+msgid "Contacts from %s"
+msgstr ""
+
+#: ../modules/forms/controller.php:369
+msgid "IP"
+msgstr ""
+
+#: ../modules/forms/controller.php:400
+msgid "There are no Contacts for now"
+msgstr ""
+
+#: ../modules/forms/mod.php:14
+msgid "Add New Form"
+msgstr ""
+
+#: ../modules/forms/mod.php:17
+msgid "Edit"
+msgstr ""
+
+#: ../modules/forms/mod.php:20
+msgid "Show All Forms"
+msgstr ""
+
+#: ../modules/forms/mod.php:56
+msgid "Form"
+msgstr ""
+
+#: ../modules/forms/mod.php:63
+msgid "Text"
+msgstr ""
+
+#: ../modules/forms/mod.php:65
+msgid "Select Box"
+msgstr ""
+
+#: ../modules/forms/mod.php:66
+msgid "Select List"
+msgstr ""
+
+#: ../modules/forms/mod.php:67
+msgid "Textarea"
+msgstr ""
+
+#: ../modules/forms/mod.php:68
+msgid "Radiobutton"
+msgstr ""
+
+#: ../modules/forms/mod.php:69
+msgid "Radiobuttons List"
+msgstr ""
+
+#: ../modules/forms/mod.php:70
+msgid "Checkbox"
+msgstr ""
+
+#: ../modules/forms/mod.php:71
+msgid "Checkbox List"
+msgstr ""
+
+#: ../modules/forms/mod.php:72
+msgid "Subscribe Checkbox"
+msgstr ""
+
+#: ../modules/forms/mod.php:73
+msgid "Country List"
+msgstr ""
+
+#: ../modules/forms/mod.php:74
+msgid "Country List Multiple"
+msgstr ""
+
+#: ../modules/forms/mod.php:76
+msgid "Number"
+msgstr ""
+
+#: ../modules/forms/mod.php:78
+msgid "Date"
+msgstr ""
+
+#: ../modules/forms/mod.php:79
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:35
+msgid "Month"
+msgstr ""
+
+#: ../modules/forms/mod.php:80
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:34
+msgid "Week"
+msgstr ""
+
+#: ../modules/forms/mod.php:81
+msgid "Time"
+msgstr ""
+
+#: ../modules/forms/mod.php:83
+#: ../modules/forms/views/forms.php:98
+msgid "Color"
+msgstr ""
+
+#: ../modules/forms/mod.php:84
+msgid "Range"
+msgstr ""
+
+#: ../modules/forms/mod.php:87
+msgid "File Upload"
+msgstr ""
+
+#: ../modules/forms/mod.php:88
+msgid "reCaptcha"
+msgstr ""
+
+#: ../modules/forms/mod.php:90
+msgid "Hidden Field"
+msgstr ""
+
+#: ../modules/forms/mod.php:91
+msgid "Submit Button"
+msgstr ""
+
+#: ../modules/forms/mod.php:92
+msgid "Reset Button"
+msgstr ""
+
+#: ../modules/forms/mod.php:94
+msgid "HTML / Text Delimiter"
+msgstr ""
+
+#: ../modules/forms/mod.php:96
+msgid "Google Map"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:39
+msgid "Can't find form"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:41
+msgid "Empty Form ID"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:82
+msgid "reCaptcha: The secret parameter is missing."
+msgstr ""
+
+#: ../modules/forms/models/forms.php:83
+msgid "reCaptcha: The secret parameter is invalid or malformed."
+msgstr ""
+
+#: ../modules/forms/models/forms.php:84
+msgid "Please prove that you are not a robot - check reCaptcha."
+msgstr ""
+
+#: ../modules/forms/models/forms.php:85
+msgid "reCaptcha: The response parameter is invalid or malformed."
+msgstr ""
+
+#: ../modules/forms/models/forms.php:96
+msgid "There was a problem with sending request to Google reCaptcha validation server. Please make sure that your server have possibility to send server-server requests. Ask your hosting provider about this."
+msgstr ""
+
+#: ../modules/forms/models/forms.php:129
+#, php-format
+msgid "Please check %s"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:144
+#, php-format
+msgid "Minimum value for %s is %d"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:152
+#, php-format
+msgid "Maximum value for %s is %d"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:157
+#, php-format
+msgid "Invalid value for %s"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:397
+msgid "img/preview/"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:427
+msgid "Please select Form template from list below"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:429
+#: ../modules/forms/models/forms.php:647
+msgid "Please enter Name"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:534
+msgid "Provided data was corrupted"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:673
+msgid "Name can not be empty"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:688
+#: ../modules/forms/models/forms.php:694
+#: ../modules/forms/models/forms.php:700
+msgid "Form background"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:689
+#: ../modules/forms/models/forms.php:695
+msgid "Inputs background"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:690
+#: ../modules/forms/models/forms.php:696
+msgid "Submit buttons background"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:691
+#: ../modules/forms/models/forms.php:697
+msgid "Reset buttons background"
+msgstr ""
+
+#: ../modules/forms/models/forms.php:701
+msgid "Inputs and Buttons background"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:42
+msgid "Modify Form Template"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:51
+msgid "Cannot find required Form"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:96
+msgid "None"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:97
+#: ../modules/forms/views/tpl/formsEditFormFields.php:266
+msgid "Image"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:118
+msgid "Design"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:123
+msgid "Fields"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:128
+msgid "Submit Options"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:133
+msgid "Statistics"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:139
+msgid "CSS / HTML Code"
+msgstr ""
+
+#: ../modules/forms/views/forms.php:470
+#: ../modules/forms/views/tpl/formsEditFormFields.php:377
+#, php-format
+msgid "To use this field type you need to have installed and activated <a href=\"%s\" target=\"_blank\">Google Maps Easy</a> plugin - it's Free! Just install it <a class=\"button\" target=\"_blank\" href=\"%s\">here.</a>"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:20
+#, php-format
+msgid "Change Template to any other from the list below or <a class=\"button\" href=\"%s\">return to Form edit</a>"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:22
+msgid "Choose Form Template. You can change it later."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:31
+msgid "Form Name"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:36
+#: ../modules/forms/views/tpl/formsEditFormControls.php:40
+msgid "Save"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:57
+msgid "Get in PRO"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:68
+msgid "Change Template"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAddNewAdmin.php:70
+msgid "Are you sure you want to change your current template - to "
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAdmin.php:11
+#: ../modules/forms/views/tpl/formsAdmin.php:12
+msgid "Search"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsAdmin.php:21
+#, php-format
+msgid "You have no Forms for now. <a href=\"%s\" style=\"font-style: italic;\">Create</a> your Form!"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdmin.php:99
+msgid "Loading preview..."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdmin.php:104
+msgid "Back to top"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdmin.php:115
+msgid "You have no submit fields in your Form - this make it's submission impossible. Please add one submit field in Fields tab - and then save your form."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdmin.php:118
+msgid "You have no data to submit to in your form - in this case all form data will not be send anywhere. Go to Submit Options tab - and add there at least one data submit block - and then save your form."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminCodeOpts.php:3
+msgid "Edit this ONLY if you know basics of HTML and CSS"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminCodeOpts.php:6
+msgid "Field Wrapper"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminCodeOpts.php:10
+msgid "CSS code"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminCodeOpts.php:14
+msgid "HTML code"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:2
+msgid "Change Form Template"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:8
+msgid "Width"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:14
+msgid "Max width for percentage - is 100"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:16
+msgid "Percents"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:20
+msgid "Pixels"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:28
+msgid "Background"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditAdminTplOpts.php:28
+#, php-format
+msgid "Background %d"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:1
+msgid "Click to Edit"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:10
+msgid "Shortcode"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:11
+msgid "PHP code"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:12
+msgid "Widget"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:13
+msgid "PopUp"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:27
+msgid "Add Contact Form Widget"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:31
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\" class=\"button\">Select your Form</a> in any PopUp"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:33
+#, php-format
+msgid "You need to have <a href=\"%s\" target=\"_blank\" class=\"button\">installed PopUp plugin</a> to use this feature"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:38
+msgid "Save all changes"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:42
+msgid "Clone to New Form"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:44
+msgid "Clone"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:48
+msgid "Preview"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:57
+msgid "Delete"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:64
+msgid "New Name"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormControls.php:65
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:150
+msgid "Copy"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:4
+msgid "Field invalid error message"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:5
+msgid "By default our plugin will show standard browser error messages about invalid or empty fields values. But if you need - you can replace it here. Use [label] - to set field name in your error message. For example \"Please fill out [label] field\". You can just leave this field empty - to use standard browser messages."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:17
+msgid "Add New Field"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:23
+msgid "Move Up / Down"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:29
+msgid "Move Left / Right"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:32
+msgid "Add New Field at the Top"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:36
+msgid "Add New Field at the Right"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:40
+msgid "Add New Field at the Bottom"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:44
+msgid "Add New Field at the Left"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:75
+msgid "Click on required elements from list bellow"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:89
+msgid "PRO"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:96
+msgid "Edit field settings"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:100
+msgid "Basic Settings"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:104
+msgid "Advanced"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:108
+msgid "Field Validation"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:115
+#: ../modules/forms/views/tpl/formsEditFormFields.php:195
+msgid "Name"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:116
+msgid "Name attribute for your field. You can use here latin letters, numbers or symdols \"-\", \"_\"."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:124
+msgid "Please fill-in Name for your field, and make sure that it contains only latin letters, numbers or symdols \"-\", \"_\"."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:130
+msgid "Field label - that your users will see on your Form right near your field."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:138
+msgid "Placeholder"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:139
+msgid "Field placeholder - will be printed in your field as a tip."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:147
+msgid "Please fill-in Label or Placeholder for your field - it's required for users to know - what field in Form that are filling-in."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:152
+msgid "Default Value"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:153
+msgid "You can set default value for your field, and one it appear on your site - field will be pre-filled with this value."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:159
+msgid "or select preset"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:160
+msgid "User IP"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:161
+msgid "User Country code"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:162
+msgid "User Country name"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:165
+msgid "Allow to insert some pre-defined values, like current user IP addres, or his country - to send you this data."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:167
+msgid "PRO option"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:172
+msgid "Display as"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:175
+msgid "In row"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:176
+msgid "In column"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:183
+msgid "Select Options"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:210
+msgid "Checked by Default"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:218
+msgid "Required"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:227
+msgid "Site Key"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:228
+#, php-format
+msgid "Your site key, generated on <a href=\"%s\" target=\"_blank\">%s</a>. To get more info - check <a href=\"%s\" target=\"_blank\">our tutorial.</a>"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:236
+msgid "Secret Key"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:237
+#, php-format
+msgid "Your secret key, generated on <a href=\"%s\" target=\"_blank\">%s</a>. To get more info - check <a href=\"%s\" target=\"_blank\">our tutorial.</a>"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:249
+msgid "reCaptcha Theme"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:250
+#, php-format
+msgid "The color theme. You can select from themes, provided by Google, for your reCaptcha. To get more info - check <a href=\"%s\" target=\"_blank\">our tutorial.</a>"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:254
+msgid "Light"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:254
+msgid "Dark"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:261
+msgid "reCaptcha Type"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:262
+msgid "The type of CAPTCHA to serve."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:266
+msgid "Audio"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:273
+msgid "reCaptcha Size"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:274
+msgid "The size of the CAPTCHA widget."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:278
+msgid "Compact"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:278
+msgid "Normal"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:285
+msgid "Additional classes"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:286
+msgid "You can specify here additinal CSS classes for your field."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:294
+msgid "Additional styles"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:295
+msgid "You can specify here additinal CSS styles, that will be included in \"style\" tag, for your field."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:303
+msgid "Additional HTML attributes"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:304
+msgid "You can specify here additinal HTML attributes, such as \"id\", or other, for your field."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:316
+msgid "Minimum length"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:317
+msgid "Possibility to bound field minimum length."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:325
+msgid "Maximum length"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:326
+msgid "Possibility to bound field maximum length. For Files fields types - this is restriction for file size, in Mb."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:334
+msgid "Only numbers"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:335
+msgid "Allow users to enter in this field - only numeric values."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:343
+msgid "Only letters"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:344
+msgid "Only letters will be allowed."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:352
+msgid "Validation Pattern"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:353
+msgid "You can modify or set here your custom patters. Edit this ONLY if you know how to modify regular expression patterns! For Files fields types you can set here file extensions, separated by comma - \",\"."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:363
+msgid "HTML / Text / Images / etc."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:366
+msgid "Select desired Map"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:369
+msgid "Select Map"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormFields.php:374
+#, php-format
+msgid "You have no Google Maps for now. <a href=\"%s\" target=\"_blank\" class=\"button\">Create Maps</a> at first, then you will be able to select it here and past into your form"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:4
+msgid "Total Statistics"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:6
+msgid "Clear selection"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:11
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:128
+msgid "To"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:26
+msgid "Reset Zoom"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:31
+msgid "Group by"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:32
+msgid "Hour"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:33
+msgid "Day"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:37
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:77
+msgid "Export to CSV"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:42
+msgid "Clear data"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:49
+msgid "Total Statistics is empty for now."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormStatistics.php:50
+msgid "Once your site visitors begin to use your form - all form statistics usage will be here."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:4
+msgid "Form sent message"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:5
+msgid "Message, that your users will see after success form submition."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:13
+msgid "Form sent message color"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:14
+msgid "Text color for your Success message."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:24
+msgid "Hide form after submit"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:25
+msgid "By default form will be hidden after successful submit, but you can disable this here - and after submit form will be just cleared."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:35
+msgid "Redirect after submit"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:36
+msgid "If you want - you can redirect user after Form was submitted. Just enter required Redirect URL here - and each time after Form will be submitted - user will be redirected to that URL. Just leave this field empty - if you don't need this functionality in your Form."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:52
+msgid "Test Email Function"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:53
+msgid "Email delivery depends from your server configuration. For some cases - you and your subscribers can not receive emails just because email on your server is not working correctly. You can easy test it here - by sending test email. If you receive it - then it means that email functionality on your server works well. If not - this means that it is not working correctly and you should contact your hosting provider with this issue and ask them to setup email functionality for you on your server."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:61
+msgid "Send Test Email"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:64
+msgid "Email was sent. Now check your email inbox / spam folders for test mail. If you don’t find it - it means that your server can't send emails - and you need to contact your hosting provider with this issue."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:70
+msgid "Save contacts data"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:71
+msgid "Store each contact form submission - into database, so you will be able to check all your form submit data."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:79
+msgid "Delimiter for CSV file columns"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:80
+msgid "Delimiter"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:91
+msgid "Send only Field values"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:92
+msgid "By default - we will send field labels + values like:<br /><b>Field Label</b>: Field Value<br />But if you need to receive only values - you can disable sending Field Values here - just check this checkbox and it will done."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:103
+msgid "Add additional data for submit"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:110
+msgid "Add Copy"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:111
+msgid "Remove Copy"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:121
+msgid "You can use next variables in any field bellow: [sitename] - name of your site, [siteurl] - URL address of your site, [user_FIELD_NAME] - any user field, entered by user, where FIELD_NAME - is name of required field, for example insert in subject [user_email] - and there will be user email field data, or [user_first_name] - and there will be inserted user First Name - if such field exists in your form fields list, and variable [form_data] - only for Message field - it will contans full generated input form data."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:129
+msgid "Email where we need to send contact form info. Can enter several email addresses, separated by comma \",\"."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:140
+msgid "\"From\" parameter in your emails. Usually - this is your main admin WP email address."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:151
+msgid "Add recipients to copy email addresses. Can enter several email addresses, separated by comma \",\"."
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:159
+msgid "Reply To"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:160
+msgid "Reply To parameter in your email"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:168
+msgid "Subject"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:169
+msgid "Email subject"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:177
+msgid "Message"
+msgstr ""
+
+#: ../modules/forms/views/tpl/formsEditFormSubmitOpts.php:178
+msgid "Email message content"
+msgstr ""
+
+#: ../modules/forms_widget/mod.php:18
+msgid "Display Contact Form"
+msgstr ""
+
+#: ../modules/forms_widget/views/tpl/formsWidgetForm.php:2
+msgid "Title"
+msgstr ""
+
+#: ../modules/forms_widget/views/tpl/formsWidgetForm.php:9
+msgid "Form to display"
+msgstr ""
+
+#: ../modules/forms_widget/views/tpl/formsWidgetForm.php:19
+msgid "You have no Forms for now. Create your first form - and you will be able to select it for widget here."
+msgstr ""
+
+#: ../modules/forms_widget/views/tpl/formsWidgetForm.php:23
+msgid "Create Form"
+msgstr ""
+
+#: ../modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+
+#: ../modules/mail/mod.php:62
+msgid "Cannot send email - problem with send server"
+msgstr ""
+
+#: ../modules/mail/mod.php:75
+msgid "Mail"
+msgstr ""
+
+#: ../modules/mail/mod.php:77
+msgid "Mail function tested and work"
+msgstr ""
+
+#: ../modules/mail/mod.php:78
+msgid "Notify Email"
+msgstr ""
+
+#: ../modules/mail/mod.php:78
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+
+#: ../modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr ""
+
+#: ../modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+
+#: ../modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:29
+msgid "Bad, please contact your hosting provider and ask them to setup mail functionality on your server."
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:47
+#, php-format
+msgid "Turned On %s"
+msgstr ""
+
+#: ../modules/mail/views/tpl/mailAdmin.php:48
+#, php-format
+msgid "Turned Off %s"
+msgstr ""
+
+#: ../modules/options/mod.php:114
+msgid "General"
+msgstr ""
+
+#: ../modules/options/mod.php:116
+msgid "Send usage statistics"
+msgstr ""
+
+#: ../modules/options/mod.php:116
+msgid "Send information about what plugin options you prefer to use, this will help us make our solution better for You."
+msgstr ""
+
+#: ../modules/options/mod.php:117
+msgid "Enable blocking Contact from same IP"
+msgstr ""
+
+#: ../modules/options/mod.php:117
+msgid "Our plugin have feature to block form submission from same IP more then one time per hour - to avoid spam. You can enable this feature here."
+msgstr ""
+
+#: ../modules/options/mod.php:118
+msgid "Disable autosave on Form Edit"
+msgstr ""
+
+#: ../modules/options/mod.php:118
+msgid "By default our plugin will make autosave all your changes that you do in Form edit screen, but you can disable this feature here. Just don't forget to save your Form each time you make any changes in it."
+msgstr ""
+
+#: ../modules/options/mod.php:119
+msgid "Enable promo link"
+msgstr ""
+
+#: ../modules/options/mod.php:119
+msgid "We are trying to make our plugin better for you, and you can help us with this. Just check this option - and small promotion link will be added in the bottom of your Form. This is easy for you - but very helpful for us!"
+msgstr ""
+
+#: ../modules/options/mod.php:120
+msgid "User role can use plugin"
+msgstr ""
+
+#: ../modules/options/mod.php:120
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+
+#: ../modules/options/mod.php:121
+msgid "Load Assets in Footer"
+msgstr ""
+
+#: ../modules/options/mod.php:121
+msgid "Force load all plugin CSS and JavaScript files in footer - to increase page load speed. Please make sure that you have correct footer.php file in your WordPress theme with wp_footer() function call in it."
+msgstr ""
+
+#: ../modules/options/mod.php:122
+msgid "Disable HTML Emails content type"
+msgstr ""
+
+#: ../modules/options/mod.php:122
+msgid "Some servers fail send emails with HTML content type: content-type = \"text/html\", so if you have problems with sending emails from our plugn - try to disable this feature here."
+msgstr ""
+
+#: ../modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr ""
+
+#: ../modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr ""
+
+#: ../modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr ""
+
+#: ../modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr ""
+
+#: ../modules/options/views/options.php:66
+msgid "Undefined"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid "Please be advised that this template with all other options and PRO templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> today and get this and other PRO templates and features for your Forms!"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid "Please be advised that this option is available only in <a target=\"_blank\" href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> today and get this and other PRO option for your Forms!"
+msgstr ""
+
+#: ../modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr ""
+
+#: ../modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+
+#: ../modules/statistics/controller.php:40
+#, php-format
+msgid "Statistics for %s"
+msgstr ""
+
+#: ../modules/statistics/controller.php:43
+msgid "Views"
+msgstr ""
+
+#: ../modules/statistics/controller.php:44
+msgid "Unique Views"
+msgstr ""
+
+#: ../modules/statistics/controller.php:46
+msgid "Conversion"
+msgstr ""
+
+#: ../modules/statistics/mod.php:7
+msgid "Displayed"
+msgstr ""
+
+#: ../modules/statistics/mod.php:8
+msgid "Submitted"
+msgstr ""
+
+#: ../modules/statistics/mod.php:9
+msgid "Submitted Success"
+msgstr ""
+
+#: ../modules/statistics/mod.php:10
+msgid "Submitted Fail"
+msgstr ""
+
+#: ../modules/statistics/models/statistics.php:177
+msgid "No data found"
+msgstr ""
+
+#: ../modules/supsystic_promo/controller.php:7
+#: ../modules/supsystic_promo/controller.php:100
+#: ../modules/supsystic_promo/controller.php:108
+#: ../modules/supsystic_promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr ""
+
+#: ../modules/supsystic_promo/controller.php:23
+msgid "Please don't send contact requests so often - wait for response for your previous requests."
+msgstr ""
+
+#: ../modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:47
+#, php-format
+msgid "<h3>Hey, I noticed you just use %s over a week – that’s awesome!</h3><p>Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:48
+#: ../modules/supsystic_promo/mod.php:54
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:49
+#: ../modules/supsystic_promo/mod.php:55
+msgid "Nope, maybe later"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:50
+msgid "I already did"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:51
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:52
+msgid "<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> company I would like to thank you for been with us, and I really hope that our software helped you.</p>"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:53
+msgid "<p>And today, if you want, - you can help us. This is really simple - you can just add small promo link to our site under your Forms. This is small step for you, but a big help for us! Sure, if you don't want - just skip this and continue enjoy our software!</p>"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:56
+msgid "Skip"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:103
+msgid "Overview"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:106
+msgid "Featured Plugins"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:113
+msgid "Constant Contact - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:114
+msgid "Campaign Monitor - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:115
+msgid "Vertical Response - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:116
+msgid "SendGrid - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:117
+msgid "GetResponse - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:118
+msgid "iContact - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:119
+msgid "Active Campaign - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:120
+msgid "Mailrelay - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:121
+msgid "arpReach - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:122
+msgid "SG Autorepondeur - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:123
+msgid "Benchmark - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:124
+msgid "InfusionSoft - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:125
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:126
+msgid "ConvertKit - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:127
+msgid "Emma - PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:162
+#: ../modules/supsystic_promo/mod.php:174
+msgid "Get PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:185
+msgid "Form Location"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:234
+msgid "Website"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:236
+msgid "Topic"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:237
+msgid "Plugin options"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:238
+msgid "Report a bug"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:239
+msgid "Require a new functionality"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:240
+msgid "Other"
+msgstr ""
+
+#: ../modules/supsystic_promo/mod.php:242
+msgid "Hello Supsystic Team!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:25
+msgid "Why Form by Supsystic is \"must have\" for your website?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:26
+#, php-format
+msgid "Increase your sales by 500%% using Form by Supsystic! More subscribers = more sales! It's that simple!<br />More info you can find here <a target=\"_blank\" href=\"%s\">Form by Supsystic is \"must have\" for your website</a>"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:27
+msgid "What is A/B testing?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:28
+#, php-format
+msgid "A/B testing is one of the easiest ways to increase conversion rates and learn more about your audience!<br />A/B test in Form plugin involves testing two or more versions of a forms window - an A version (original) and a B versions (the variation) - with live traffic and measuring the effect each version has on your conversion rate.<br />To know more detail – click <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:29
+msgid "How to enable subscription to Aweber?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:30
+#, php-format
+msgid "In order to subscribe to Aweber you need to know unique list id of your aweber account - check this <a target=\"_blank\" href=\"%s\">page</a> for more details."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:31
+msgid "How to subscribe to MailChimp?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:32
+msgid ""
+"To subscribe to MailChimp you need enter your MailChimp API key and name of list for subscription. To find your MailChimp API key - follow the instructions below:<br />\n"
+"\t\t\t\t1. Login to your mailchimp account at http://mailchimp.com<br />\n"
+"\t\t\t\t2. From the left main menu, click on your Username, then select \"Account\" in the flyout menu.<br />\n"
+"\t\t\t\t3. From the account page select \"Extras\" -> \"API Keys\".<br />\n"
+"\t\t\t\t4. Your API Key will be listed in the table labeled \"Your API Keys\".<br />\n"
+"\t\t\t\t5. Copy / Paste your API key into \"MailChimp API key\" field in Form edit screen -> Subscribe section."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:38
+msgid "Where to find css code for the pop-up window?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:39
+msgid ""
+"With Form by Supsystic you can edit CSS style directly from the plugin. <br />\n"
+"\t\t\t\tIn WordPress admin area - \n"
+"go to Form by Supsystic -> choose a forms, what you need -> click Code tab. <br />\n"
+"Here you can edit css style of the pop-up window."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:43
+msgid "How to get PRO version of plugin for FREE?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:44
+#, php-format
+msgid ""
+"You have an incredible opportunity to get PRO version for free. Make Translation of the plugin! It will be amazing if you take advantage of this offer!<br />\n"
+"\t\t\t\t\tMore info you can find here <a target=\"_blank\" href=\"%s\">“Get PRO version of any plugin for FREE”</a>"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:46
+msgid "Translation"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:47
+#, php-format
+msgid ""
+"All available languages are provided with the Supsystic Form plugin. If your language isn’t available, your plugin will be in English by default.<br />\n"
+"\t\t\t\t\tAvailable Translations: English, French, German, Spanish, Russian<br />\n"
+"\t\t\t\t\tTranslate or update a translation Form WordPress plugin in your language and get a Premium license for FREE. <a target=\"_blank\" href=\"%s\">Contact us.</a>"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Where's my subscribers?"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:55
+#, php-format
+msgid ""
+"By default all subscribers add to the WordPress. \n"
+"\t\t\t\t\tTo find your subscribers go to Users tab on the left navigation menu of WordPress admin area. \n"
+"\t\t\t\t\tAlso available subscription to the Aweber, MailChimp, MailPoet <a href='%s' target='_blank'>and other</a>. \n"
+"\t\t\t\t\tIf you want to add another subscription service - just <a href='%s' target='_blank'>contact us</a> and provide URL of the subscription service."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:59
+msgid "Form doesn't appear on the website"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:60
+#, php-format
+msgid "If you setup you're Form properly, and it still doesn't show on the page - there are can be conflict with your WordPress theme or other plugins. <a href='%s' target='_blank'>Contact us</a> with the URL of the webpage you add forms and screenshots / text of the error messages, if you have one - and we will help you resolve your issue."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:76
+#, php-format
+msgid "There were some problems while trying to retrieve our news, but you can always check all list <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:133
+msgid "Popup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:133
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:134
+msgid "Slider Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:134
+msgid "Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all from one page."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:135
+msgid "Photo Gallery Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:135
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:136
+msgid "Data Tables Generator"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:136
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:137
+msgid "Social Share Buttons"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:137
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:138
+msgid "Live Chat Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:138
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:139
+msgid "Pricing Table"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:139
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:140
+msgid "Coming Soon Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:140
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:141
+msgid "Backup Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:141
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:142
+msgid "Google Maps Easy"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:142
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:143
+msgid "Digital Publication Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:143
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:144
+msgid "Contact Form Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:144
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:145
+msgid "Newsletter Plugin"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/supsystic_promo.php:145
+msgid "Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:1
+#, php-format
+msgid "Show when user tries to exit from your site. <a target=\"_blank\" href=\"%s\">Check example.</a>"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:7
+msgid "On Exit from Site"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/additionalmainAdminShowOnOptions.php:9
+msgid "Available in PRO"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminFooter.php:15
+msgid "Support"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:5
+#, php-format
+msgid "Thank you for choosing our %s plugin. Just click here to start using it - and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:8
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:18
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:28
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:38
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:48
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:58
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:68
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:78
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:88
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:98
+msgid "Close"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:9
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:19
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:29
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:39
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:49
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:59
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:69
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:79
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:89
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:99
+msgid "Next"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:14
+msgid "Create your firs Form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:15
+msgid "Click on \"Add New Form\" button to create your firs Form. Just try - this is really simple!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:24
+msgid "Enter name for your Form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:25
+msgid "This will be name of your Form. You can change it latter."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:34
+msgid "Selecte template for your Form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:35
+msgid "Choose any templates from this list. You will be able to customize it after creation, and also - you will be able to change it latter if you will need this."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:44
+msgid "Save first Form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:45
+msgid "After you entered name of your Form and selected it's template - just save it, and you will be redirected to Form edit screen - where you will be able to customize your Form."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:54
+msgid "Main Settings"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:55
+msgid "Here you can setup main display settings for your Form - when it should be visible for your user, when it need to be closed, if required - select specific pages/posts where you need to show your Form."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:64
+msgid "Design Settings"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:65
+msgid "One of our most powerfull features - possibility to <strong>customize</strong> design for each Form window for your needs. In this section you can select your Form colors and images, enter required texts that will describe your neds for your visitors, setup social settings (if required), select Form location, and in the end - select Animation style for your Form from list of more then 20 different animation styles!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:74
+msgid "Subscribe Settings"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:75
+msgid "Setup your Subscription settings here - select Subscribers destination in \"Subscribe to\" option - it allow to flow your subscribers not only to WordPress Users, but to other popular subscribe services. With other subscription options you will be able to easily customize your subscribe form in Form window."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:84
+msgid "Form Statistics"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:85
+msgid "After you will setup your Form - it will start displaying to your site visitors. And now - you need to check it's displaying statistics. Here, in Statistics tab, you will be able to see how many times Form was shown to your visitors, how many times visitors subscribed to it (if subscription is enabled), how many times visitors shared your site using Social Share Form functionality and what social networks for share is most popular (if it was enabled). If you will use AB Testing feature to increase your site popularity - you will see here all your main and tested Forms statistics - in one graph or diagramm, - and this will provide you with all required information about your Form popularity!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:94
+msgid "Form CSS / HTML Code"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:95
+#, php-format
+msgid "In case you will need modify source CSS / HTML code of your Form - you can easily do this here. Just make sure that you know what you are doing - don't break Form. You can also find additional information about editing source code <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:104
+msgid "Well Done!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:105
+#, php-format
+msgid "That's it! Now you know how to use our %s. Just save your Form after you will setup it - and you will see results. You can also check our site - <a href=\"%s\" target=\"_blank\">supsystic.com</a> to find out more about our %s plugin. If you will have any questions - you can always contact us on <a href=\"%s\" target=\"_blank\">WordPress plugin forum</a> or in <a href=\"%s\" target=\"_blank\">our support system</a>. We really hope that our solution will be helpful for you. Good luck!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/adminTour.php:108
+msgid "Finish"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+msgid "Check It out"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+msgid "More info"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/featuredPlugins.php:34
+msgid "Download"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:8
+msgid "Enable Layered Form Style"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:12
+msgid "By default all Forms have modal style: it appears on user screen over the whole site. Layered style allows you to show your Form - on selected position: top, bottom, etc. and not over your site - but right near your content."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:16
+msgid "Select position for your Form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:19
+msgid "Top Left"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:20
+msgid "Top"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:21
+msgid "Top Right"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:23
+msgid "Center Left"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:24
+msgid "Center"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:25
+msgid "Center Right"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:27
+msgid "Bottom Left"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:28
+msgid "Bottom"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:29
+msgid "Bottom Right"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/layeredStylePromo.php:77
+#, php-format
+msgid "This functionality and more - is available in PRO version. <a class=\"button button-primary\" target=\"_blank\" href=\"%s\">Get it</a> today for 29$"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:31
+msgid "Server Settings"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:44
+msgid "News"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:50
+msgid "All news and info"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:55
+msgid "Contact form"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:87
+msgid "Send email"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/overviewTabContent.php:96
+msgid "Your email was sent, we will try to respond to your as soon as possible. Thank you for support!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:11
+msgid "The best way to collect subscribers and show notifications.<br />We are trying to make our plugin work in most comfortable way for you. Here is some base information about it."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:21
+msgid "There're really many options of forms customization. So as soon as you close that page, I'll show you step-by-step tutorial of how to use plugin. Hope it will be usefull for you :)"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:24
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:30
+#, php-format
+msgid "We love our plugin and do the best to improve all features for You. But sometimes issues happened, or you can't find required feature that you need. Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will help you!"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:36
+msgid "Video Tutorial"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:48
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:51
+msgid "Check all FAQs"
+msgstr ""
+
+#: ../modules/supsystic_promo/views/tpl/welcomePage.php:59
+msgid "Let's Start!"
+msgstr ""
+
